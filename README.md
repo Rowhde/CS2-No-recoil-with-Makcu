@@ -10,6 +10,6 @@ Adding smoothness to make it more seamless
 
 Adding a pause button
 
-Auto detection ??
+Auto detection and possibly AI aimbot??
 
 Fix some weapon patterns like the SG 553
